@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.blog_container{/*this is the body */
+    background-color: gold;
+    width: 70%;
+    height: 45rem;
+    margin: 0 auto;
+    padding-top: 8rem;
+    margin-top: 6rem;
+}
+.blog_form{/*this is for the container */
+    background-color: white;
+    width: 38%;
+    height: 33rem;
+    margin: 0 auto;
+    border-radius: 5%;
+    border-color: black;
+    box-shadow: 8px 8px black;
+    
+}
+.learning_text{/* learning container*/
+    background-color: gold;
+    width: 6rem;
+    height: 22px;
+    margin-left: 2rem;
+    padding-left: 1rem;
+    margin-top: 11px;
+
+
+}
+.publ_date{/*for the date*/
+    margin-left: 2rem;
+    font-size: 12px;
+    font-weight: 500;
+}
+.html_text{/*this is for h2 text*/
+    margin-left: 2rem;
+    
+}
+.para_text{/*this is for the paragraph text*/
+    margin-left: 2rem;
+    color: grey;
+    font-size: 14px;
+    font-weight: 500;
+}
+.image1{/*this is header image*/
+    margin-left: 2rem;
+    border-radius: 8%;
+    margin-top: 2rem;
+}
+.image2{/*image for profile*/
+    margin-left: 2rem;
+    border-radius: 80%;
+    
+}
+.name_text{/*this is name of the profile*/
+    margin-left: 6rem;
+    padding-top: 10px;
+
+}
+
